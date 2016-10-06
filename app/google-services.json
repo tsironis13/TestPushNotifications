@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "998915164374",
+    "firebase_url": "https://locpush-9b509.firebaseio.com",
+    "project_id": "locpush-9b509",
+    "storage_bucket": "locpush-9b509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998915164374:android:1e48510dcae2d77e",
+        "android_client_info": {
+          "package_name": "com.pushnotifications.sample.testpushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998915164374-2nk284v5l9mq5qhb2967r07c6hep2ot3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6iZAYqf1mCZ9Iigpu-mLvUQClC3ygZwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
